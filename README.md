@@ -25,10 +25,10 @@
 ## Screenshots Of Recipe Blog
 
 ### Homepage
-![Homepage Screenshot](<img width="1703" height="890" alt="Recipe Blog Main Page" src="https://github.com/user-attachments/assets/c4655c94-3a11-4d3a-9b53-5122df6eb5e5">)
+<img src="./screenshots/recipe-main.png" alt="Homepage Screenshot" width="800" />
 
 ### Lunch Recipe Page
-![Lunch Recipe Page Screenshot](<img width="1701" height="661" alt="Recipe Blog Lunch Page" src="https://github.com/user-attachments/assets/b0953115-667b-4ac6-a8a2-c754a576eea5">)
+<img src="./screenshots/recipe-lunch.png" alt="Lunch Recipe Page Screenshot" width="800" />
 
 ---
 
